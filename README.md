@@ -1,3 +1,5 @@
 # GATSBY-Restaurant
 
-Add images to a RaedMe file
+## Add images to a ReadMe file
+
+### Well! Lets get going
