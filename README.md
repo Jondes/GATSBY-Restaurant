@@ -1,4 +1,4 @@
-# GATSBY-Restaurant
+# React Signup Verification 
 
 ## Add images to a ReadMe file
 
